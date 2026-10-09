@@ -1,0 +1,18 @@
+{
+  "name": "prd-skills",
+  "owner": { "name": "SinHom", "url": "https://github.com/SinHom" },
+  "metadata": {
+    "description": "PRD 生成与评审双技能：把碎片化输入收敛成研发级 PRD，再用同一套六维质量门从陌生研发视角查一遍。"
+  },
+  "plugins": [
+    {
+      "name": "prd-skills",
+      "description": "PRD 生成（prd-design）与 PRD 审查（prd-review）双技能，零依赖、零 API Key。",
+      "version": "1.0.0",
+      "author": { "name": "SinHom", "url": "https://github.com/SinHom" },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/SinHom/prd-skills"
+    }
+  ]
+}
